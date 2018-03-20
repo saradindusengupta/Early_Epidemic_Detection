@@ -34,7 +34,8 @@ The process includes stop-words removing lemmatization, tagging and mapping it t
  
 ![](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/BlockChain_create.gif)
 
-<iframe src="https://drive.google.com/file/d/19bOmiqjlj3f9pvfv2Q6e6h-Igfpibjpl/preview" width="640" height="480"></iframe>
+#### Database Handling and Prediction
+[Video](https://drive.google.com/file/d/19bOmiqjlj3f9pvfv2Q6e6h-Igfpibjpl/preview)
 
 #### Database
 **Common Districts in Udaipur**:
