@@ -1,7 +1,7 @@
 # Rajashthan_Hackathon 
--/Data Contains the primary datasource for the inference Engine
--/hackathon contains the graph database
--/code contains the codebase
+- /Data Contains the primary datasource for the inference Engine
+- /hackathon contains the graph database
+- /code contains the codebase
 
 ## Early Epidemic Detection
 Early epidemic detection or surveillance system consists of a well-found database from which to draw data and to which to write the inference and relations for the analysis to happen.
@@ -9,11 +9,11 @@ Using CDA or Case Detection Algorithms, using a critical number for the hard bou
 For Example, If influenza records 110 cases in a week, and the critical value for that remains at 100 then that particular region is at the start of an epidemic which doesn't fit good. For that purpose, the hard boundary is considered off with a flexibility factor which determines the condition for a hard boundary.
  
 ## Technologies used
--[Neo4j](https://neo4j.com/)
--[MetaMap](https://metamap.nlm.nih.gov/)
--[Naivechain](https://lhartikk.github.io/) Framework for the early Adoption of recoed creation
--[Python v3.6](https://www.python.org/downloads/release/python-360/)
--[Django](https://www.djangoproject.com/)
+- [Neo4j](https://neo4j.com/)
+- [MetaMap](https://metamap.nlm.nih.gov/)
+- [Naivechain](https://lhartikk.github.io/) Framework for the early Adoption of recoed creation
+- [Python v3.6](https://www.python.org/downloads/release/python-360/)
+- [Django](https://www.djangoproject.com/)
 
 ## Concept
 The current problem persist that patients' data is highly non-trasferable under the security consensus. The biggest challenge that is being faced by health care systems throughout the world is how to share medical data with known and unknown stakeholders for various purposes while ensuring data integrity and protection patient privacy. Although data standards are better than ever, each electronic medical record (EMR) stores data using different workflows, so it is not obvious who recorded what, and when and hence Creating a trusted environment for decision-making is a challenge for medical fraternity. 
