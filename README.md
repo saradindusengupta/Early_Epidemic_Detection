@@ -15,6 +15,8 @@ For Example, If influenza records 110 cases in a week, and the critical value fo
 - [Python v3.6](https://www.python.org/downloads/release/python-360/)
 - [Django](https://www.djangoproject.com/)
 
+**NOTE** Please note thatfor optimal performance the user's to obtain a unified medical language system(*UMLS*) licesnce , since *UMLS* Metathesaurus is used as one of the knowledge source.
+
 ## Concept
 The current problem persist that patients' data is highly non-trasferable under the security consensus. The biggest challenge that is being faced by health care systems throughout the world is how to share medical data with known and unknown stakeholders for various purposes while ensuring data integrity and protection patient privacy. Although data standards are better than ever, each electronic medical record (EMR) stores data using different workflows, so it is not obvious who recorded what, and when and hence Creating a trusted environment for decision-making is a challenge for medical fraternity. 
 The use of [Naivechain](https://lhartikk.github.io/) provides a hassle free block creation and integrity maintaning blockchain without the features of mining.
