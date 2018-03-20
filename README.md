@@ -21,8 +21,9 @@ The use of [Naivechain](https://lhartikk.github.io/) provides a hassle free bloc
 Each hospital or health care centre works as a node adding blocks to the chain with user's timestamp and signature for authenticity of the system. Each block consists of each electronic medical records.
 #### The Later part
 consists of an analysis of the medical records data in a graph database to create inferences among entities. 
-**MetaMap** utilizes a local database to map biomedical text to the [UMLS](https://www.nlm.nih.gov/research/umls/) Metathesaurus or, equivalently, to discover Metathesaurus concepts referred to in the text. MetaMap uses a knowledge-intensive approach based on symbolic, natural-language processing (NLP) and computational-linguistic techniques. Besides being applied for both IR and data-mining applications, MetaMap is one of the foundations of [NLM](https://ii.nlm.nih.gov/MTI/)'s Medical Text Indexer (MTI) which is being used for both semiautomatic and fully automatic indexing of biomedical literature at NLM. 
-#### The process includes stop-words removing lemmatization, tagging and mapping it to specific entities. The graph database, here **Neo4j** uses graph database to create inferences. The results are shown and drawn  to the web interfaces created with *Django*.
+**MetaMap** utilizes a local database to map biomedical text to the [UMLS](https://www.nlm.nih.gov/research/umls/) Metathesaurus or, equivalently, to discover Metathesaurus concepts referred to in the text. MetaMap uses a knowledge-intensive approach based on symbolic, natural-language processing (NLP) and computational-linguistic techniques. Besides being applied for both IR and data-mining applications, MetaMap is one of the foundations of [NLM](https://ii.nlm.nih.gov/MTI/)'s Medical Text Indexer (MTI) which is being used for both semiautomatic and fully automatic indexing of biomedical literature at NLM.
+#### Inference Engine
+The process includes stop-words removing lemmatization, tagging and mapping it to specific entities. The graph database, here **Neo4j** uses graph database to create inferences. The results are shown and drawn  to the web interfaces created with *Django*.
 
 
 
