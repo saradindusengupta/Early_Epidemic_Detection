@@ -35,12 +35,10 @@ The process includes stop-words removing lemmatization, tagging and mapping it t
 ![](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/BlockChain_create.gif)
 
 #### Database
-![](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/sample/a.png)
-**Common Districts in Udaipur**
-![](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/sample/b.png)
-**Common disease for Age greater than 60 for all District**
-![](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/sample/c.png)
-**Top Disease, Age, Gender**
+![**Common Districts in Udaipur**](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/sample/a.png)
+![**Common disease for Age greater than 60 for all District**](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/sample/b.png)
+![**Top Disease, Age, Gender**](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/sample/c.png)
+
 
 #### Experience
 Running the following files with any javascript enabled browser will yield in the experience of the database
