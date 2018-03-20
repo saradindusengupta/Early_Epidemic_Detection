@@ -37,8 +37,10 @@ The process includes stop-words removing lemmatization, tagging and mapping it t
 #### Database
 **Common Districts in Udaipur**:
 ![](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/sample/a.png)
+
 **Common disease for Age greater than 60 for all District**:
 ![](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/sample/b.png)
+
 **Top Disease, Age, Gender**
 ![](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/sample/c.png)
 
