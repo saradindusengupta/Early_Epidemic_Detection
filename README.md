@@ -52,8 +52,8 @@ The process includes stop-words removing lemmatization, tagging and mapping it t
 Running the following files with any javascript enabled browser will yield in the experience of the database
 
 -  	[resultX_graph-422.html](http://htmlpreview.github.io/?https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/sample/resultX_graph-422.html)
--  	resultY_graph-422.html
--  	resultz_graph-422.html
+-  	[resultY_graph-422.html](http://htmlpreview.github.io/?https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/sample/resultY_graph-422.html)
+-  	[resultz_graph-422.html](http://htmlpreview.github.io/?https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/sample/resultZ_graph-422.html)
 
  
 
