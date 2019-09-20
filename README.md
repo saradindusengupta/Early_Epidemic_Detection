@@ -35,7 +35,7 @@ The process includes stop-words removing lemmatization, tagging and mapping it t
 ![](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/BlockChain_create.gif)
 
 #### Database Handling and Prediction
-[Video](https://drive.google.com/file/d/19bOmiqjlj3f9pvfv2Q6e6h-Igfpibjpl/preview)
+[Video](https://github.com/saradindusengupta/Rajasthan_Hackathon/blob/master/Early_Epidemic_Detection-Team_ClassifAI.mkv)
 
 #### Database
 **Common Districts in Udaipur**:
